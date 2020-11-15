@@ -1,5 +1,5 @@
 <?php
-
+echo 'prueba SSH';
 echo'
 
 <!DOCTYPE html>
